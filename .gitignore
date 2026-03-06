@@ -1,0 +1,17 @@
+# Odoo / Python
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Docker / local state
+*.backup
+*.tar.gz
+
+# Optional: if you later add local configs/secrets
+.env
